@@ -21,3 +21,9 @@
 
 
 # 方式二: 出租
+![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215526.png)
+
+
+# 其他: 购买现成账号(最简单但也是最贵的)
+![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215654.png)
+![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215806.png)
