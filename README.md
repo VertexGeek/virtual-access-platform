@@ -15,6 +15,7 @@
 
 ## 等待发送验证码
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211214939.png)
+![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215254.png)
 
 
 
