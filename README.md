@@ -10,13 +10,17 @@
 ## 选择激活服务,搜索你需要接收短信验证码的应用,选择适合你的国家
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211210507.png)
 
+
+
 ## 购买服务
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211212314.png)
+
+
 
 ## 等待发送验证码
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211214939.png)
 
-
+## 
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215254.png)
 
 
@@ -26,8 +30,12 @@
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215526.png)
 
 
+
+
 # 其他: 购买现成账号(最简单但也是最贵的)
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215654.png)
 
 
+
+##
 ![image](https://github.com/AzureforAI/sms-active/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231211215806.png)
