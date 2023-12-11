@@ -7,4 +7,3 @@
 
 # 方法一:激活
 
-![image](https://github.com/AzureforAI/sms-active/assets/143194075/a900d410-69d0-45c0-b978-b39cfb12d4e2)
